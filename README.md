@@ -1,5 +1,5 @@
-# gamify.io
-Gamify a chat app developed by using Socket.io, Node &amp; Express
+## gamify.io
+Gamify a chat app built by using Socket.io, Node &amp; Express
 
 #USAGE
 
